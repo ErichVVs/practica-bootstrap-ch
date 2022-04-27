@@ -6,3 +6,7 @@ a{
     background-color: #000 !important;
     color: whitesmoke;
 }
+.img-fuid{
+    display: flex;
+    justify-content: center;
+}
