@@ -1,0 +1,8 @@
+a{
+    text-decoration-color: white;
+    text-decoration-line: none;
+}
+.navbar ,  footer{
+    background-color: #000 !important;
+    color: whitesmoke;
+}
